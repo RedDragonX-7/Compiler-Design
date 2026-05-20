@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Define PI as a macro constant
+// Define pi as a macro constant
 #define PI 3.14159
 
 int main() {
